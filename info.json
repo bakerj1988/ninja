@@ -1,0 +1,13 @@
+{
+
+    "AUTHOR" : "Jasonwb)",
+
+    "INSTALL_MSG" : "Thanks for installing my repo.  ninja is a cog for Marvel's Contest of Champions",
+
+    "NAME" : "ninja",
+
+    "SHORT" : "Collector Cogs designed for Alliance Management in Marvel's Contest of Champions",
+
+    "DESCRIPTION" : "This repo contains a suite of cogs designed to power an alliance collection, a RED instance. The mcoc-cogs provide character info, user roster management, and ally management for Marvel Contest of Champions."
+
+}
