@@ -14,8 +14,8 @@ var bot = new Discord.Client({
 });
 bot.on('ready', function (evt) {
     logger.info('Connected');
-    logger.info('Logged in as: ');
-    logger.info(bot.username + ' - (' + bot.id + ')');
+    logger.info('Logged in as: B8kr#2066');
+    logger.info(bot.username + ' - (' + 522062633898082304 + ')');
 });
 bot.on('message', function (user, userID, channelID, message, evt) {
     // Our bot needs to know if it will execute a command
@@ -29,7 +29,7 @@ bot.on('message', function (user, userID, channelID, message, evt) {
             // !ping
             case 'ping':
                 bot.sendMessage({
-                    to: channelID,
+                    to: 515764288770801674,
                     message: 'Pong!'
                 });
             break;
